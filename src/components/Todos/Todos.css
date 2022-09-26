@@ -1,0 +1,28 @@
+.btn {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.inpt {
+    height: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    width: 68%;
+}
+
+.add-todo {
+    margin-bottom: 8%;
+}
+
+.main-todo {
+    width: 25%;
+}
